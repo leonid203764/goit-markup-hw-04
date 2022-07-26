@@ -151,7 +151,7 @@ body {
     margin-right: auto;
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
             rgba(47, 48, 58, 0.4)),
-        url("../img/hero/hero.jpg.jpg");
+        url("./img/hero/hero.jpg.jpg");
     background-size: cover;
     background-color: #c4c4c4;
 }
